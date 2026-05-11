@@ -1,7 +1,6 @@
 # FnB-Cv-Website
 # Sebuah website buatan sendiri yang menampilkan CV atau Portofolio secara digital
 
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
