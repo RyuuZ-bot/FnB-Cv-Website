@@ -1,6 +1,3 @@
-# FnB-Cv-Website
-# Sebuah website buatan sendiri yang menampilkan CV atau Portofolio secara digital
-
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -183,7 +180,7 @@
 
       <div>
         <p>
-          Halo, saya Dimas (16).
+          Halo, saya Dimas (17).
           Saya memiliki ketertarikan di bidang Food & Beverage,
           khususnya sebagai barista dan pelayanan pelanggan.
           Saya terbiasa bekerja dalam tim, menjaga kebersihan area kerja,
